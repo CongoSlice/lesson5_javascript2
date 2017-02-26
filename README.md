@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+February 25, 2017
 
 ### Student Name:  
-(First and Last Name)
+Lucas West
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project helped reinforce what we learned last project, as well as added in a few new things such as if and else statements.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://congoslice.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. If and else statements are extremely useful and necessary in most javascript projects. 
+2. It is very important to declare your variables and you can do so by using the var tag.
+3. Do not use commas when inputing numircal values in equations as it does not work. (learned this the hard way)
